@@ -58,7 +58,6 @@ qxresearch AI is a research lab focused on Machine Learning, Deep Learning, and 
 * ✏️ [Paint](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Paint) : A tkinter(GUI toolkit) based interactive paint clone
 * 💻 [Screenshot taker](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/ScreenShot) : A tkinter based screenshot app with clickable button
 * 📖 [Wikipedia Search Engine](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/Search%20Engine) : Wekipedia API integrated tkinter based search engine
-* 🛠️ [Cryptographically Secured Random Number Generator](https://github.com/qxresearch/qxresearch-event-1/tree/master/Applications/CSPRNG) : Building a CSRNG from scratch
 
 
 
