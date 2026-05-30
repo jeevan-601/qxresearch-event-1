@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .mypy_cache/
-Applications/qrcode_genrator/qr_images/
+Applications/qrcode_generator/qr_images/*.png
+Applications/qrcode_genrator/qr_images/*.png
